@@ -1,5 +1,6 @@
 console.log("hello world");
-// hello
+console.log("hello world from test 2");
 
+// hello
 
 console.log("hello world from sayon");
